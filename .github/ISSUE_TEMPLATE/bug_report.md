@@ -1,32 +1,11 @@
----
-name: Bug Report
-about: Report a bug or an issue to help us improve our project
----
-<!--- Filling this template is mandatory -->
-<!--- Provide a general summary of the issue in the Title above -->
+## Environment
 
-**Describe the issue**
+<!-- version of the software, operating system, architecture and requirements -->
 
-<!-- A clear description of what the bug is. -->
+## Description
 
-**How to reproduce?**
+<!-- Explain what's the issue and what would you expect to see -->
 
-<!-- Tell us how to reproduce this issue. Please provide a demo or a set of steps that we need to take. -->
+## Test
 
-
-**Expected behavior**
-
-<!-- A clear and concise description of what you expected to happen. -->
-
-**Possible fix**
-
-<!-- Not obligatory, but suggest a fix or reason for the bug -->
-
-**Screenshots**
-
-<!-- If applicable, add screenshots to help explain your problem. -->
-
-
-**Additional context**
-
-<!-- Attach relevant files or add any other context about the problem here. -->
+<!-- Steps to reproduce the issue and provide files/links/images/.. -->
